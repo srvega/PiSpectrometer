@@ -8,3 +8,5 @@ Originally this was going to be built in .NET but microsoft does not support ras
 All reference sources are currently compiled in my personal google drive.  I will list them here once I have a minimum viable product.
 
 General idea here is to build an app I can run on a raspberry Pi that does some basic environment scanning via infared.
+
+The screen buttons are mutually exclusive, as they will be used to trigger LEDs.  I am looking to wire up a single multi-color LED, and will use buttons to switch from red-yellow-green.
